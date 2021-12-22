@@ -1,0 +1,9 @@
+*{
+    font-family: 'PT Serif', serif;;
+}
+.special-bg{
+    background-color: #FFC017;
+}
+.special-border-bottom{
+    border-bottom: 1px solid black;
+}
