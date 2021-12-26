@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/fontawesome-free-5.15.4-web 2"
+		},
+		{
+			"path": "../Downloads/fontawesome"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Medium-Clone"
+	}
+}

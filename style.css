@@ -7,3 +7,6 @@
 .special-border-bottom{
     border-bottom: 1px solid black;
 }
+.special-gray-border-bottom{
+    border-bottom: 1px solid rgb(204, 201, 201);
+}
