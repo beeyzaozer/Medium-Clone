@@ -10,6 +10,6 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
-*.jpeg
-*.png
-!screenshots/
+
+*.log
+
