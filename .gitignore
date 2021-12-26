@@ -12,4 +12,8 @@
 *.vsix
 
 *.log
+*.png
+*.jpeg
+!screenshots/mediumSS1.png
+!screenshots/mediumSS2.png
 
